@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[withthehomies.yoga]]></title>
         <description><![CDATA[withthehomies.yoga]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/yogawiththehomies/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 12:24:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 12:31:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yogawiththehomies/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Let's flow]]></title>
+            <description><![CDATA[<article><h1>Let's flow</h1><p>over yogaaaaa</p></article>]]></description>
+            <link>https://thegrid.ai/yogawiththehomies/lets-flow/index.html</link>
+            <guid isPermaLink="false">d543356f-62c0-4d7c-97a3-e7c18fcc1734</guid>
+            <pubDate>Mon, 15 Feb 2016 12:31:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>test</p>]]></description>
-            <link>undefined9c713551-ca52-4768-bf1e-40f594cc4f71/index.html</link>
+            <link>https://thegrid.ai/yogawiththehomies/9c713551-ca52-4768-bf1e-40f594cc4f71/index.html</link>
             <guid isPermaLink="false">9c713551-ca52-4768-bf1e-40f594cc4f71</guid>
             <pubDate>Mon, 15 Feb 2016 12:24:33 GMT</pubDate>
         </item>
