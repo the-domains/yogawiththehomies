@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Hip Hop Hippie . Lizzy Lynn
-datePublished: '2016-02-16T21:42:08.393Z'
-dateModified: '2016-02-16T21:42:05.214Z'
+datePublished: '2016-02-16T21:46:53.687Z'
+dateModified: '2016-02-16T21:46:51.107Z'
 title: "Hey what's up "
 author: []
 sourcePath: _posts/2016-02-15-hey-whats-up.md
@@ -34,8 +34,6 @@ Ik kies voor mezelf, neem de tijd om te helen. Dansen . Schilderen . Fotografere
 
 ## Follow me 
 
-* [Facebook ][0]
-* Instagram
-* Pinterest 
+[facebook][0] // instagram 
 
 [0]: https://www.facebook.com/withthehomies.yoga/?ref=hl
