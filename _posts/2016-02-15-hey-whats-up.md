@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Hip Hop Hippie . Lizzy Lynn
-datePublished: '2016-02-16T21:34:38.178Z'
-dateModified: '2016-02-16T21:34:34.333Z'
+datePublished: '2016-02-16T21:35:16.126Z'
+dateModified: '2016-02-16T21:35:13.266Z'
 title: 'Follow me '
 author: []
 sourcePath: _posts/2016-02-15-hey-whats-up.md
@@ -23,8 +23,6 @@ _type: WebPage
 
 ---
 > I believe in yoga, magic, hip hop, the universe, momma nature, chocolate, you and me
-> 
-> 
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c0fb7be-8129-4c67-9cba-02e541ecf8ea.jpg)
 
