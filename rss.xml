@@ -4,8 +4,15 @@
         <description><![CDATA[withthehomies.yoga]]></description>
         <link>https://thegrid.ai/yogawiththehomies/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 21:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 21:50:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yogawiththehomies/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[blog 3 test test ]]></title>
+            <description><![CDATA[<h1>blog 3 test test </h1>]]></description>
+            <link>https://thegrid.ai/yogawiththehomies/blog-3-test-test/index.html</link>
+            <guid isPermaLink="false">f09d77c6-ca02-43c1-83a5-d06b64dd45ba</guid>
+            <pubDate>Tue, 16 Feb 2016 21:50:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[post2 test]]></title>
             <description><![CDATA[<article><h1>post2 test</h1><p>post 2</p></article>]]></description>
